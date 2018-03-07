@@ -228,27 +228,42 @@
         list-style-type: disc;       
     }
     
-    .contact p 
+    /*.contact p
     {
+        display: inline;
         width: 850px;
         margin: auto;
         padding: 10px 0px 10px 0px;
-        font-size: 0.8em;
+        font-size: 1em;
         text-align: left;
         font-weight: 400;  
+    }*/
+    
+    .contact img
+    {    
+        margin: auto;
+    }
+    
+    .contact p 
+    {
+        padding: 10px 0px 10px 0px;
+        margin: auto;
+        width: 800px;
+        font-size: 1em;
+        text-align: left;   
     }
     
     table 
     {
         padding: 10px;
         width: 300px;
-        display: inline-block;
+        display: block;
         margin: auto;    
     }
 
     td 
     {
-        font-size: 0.8em;
+        font-size: 1em;
         padding: 5px;
         text-align: left;
     }   
