@@ -333,6 +333,15 @@
         width: 90%;   
     }
     
+    .contact 
+    {
+        width: 100%;
+        margin: auto;
+        display: block;
+        float: none;   
+        padding: 10px 0px 0px 0px;         
+    }
+    
     .contact p 
     {
         padding: 10px 0px 10px 0px;
