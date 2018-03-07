@@ -278,6 +278,11 @@
         margin: auto;
     } 
     
+    #head img
+    {
+        margin: auto;
+    }
+    
     h1 
     {
         
@@ -327,6 +332,19 @@
     {
         width: 90%;   
     }
+    
+    .contact p 
+    {
+        padding: 10px 0px 10px 0px;
+        margin: auto;
+        width: 90%;         
+    }
+    
+    .contact img 
+    {
+        width: 90%    
+    }
+    
     #footer 
     {
         padding-top: 0px;    
